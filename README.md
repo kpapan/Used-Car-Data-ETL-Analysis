@@ -45,4 +45,8 @@ DB_NAME=your_database
 # 3. Run the ETL script
 python process.py
 
+## Dataset
+
+The dataset used in this project can be found on Kaggle:  
+[Used Cars for Sale in Poland – Kaggle Dataset](https://www.kaggle.com/datasets/bartoszpieniak/poland-cars-for-sale-dataset)
 
